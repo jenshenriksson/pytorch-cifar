@@ -6,7 +6,10 @@ This version saves every 10th epoch during training in addition to the best trai
 - PyTorch 1.0+
 
 ## Calls:
+
 For [Performance Analysis of Out-of-Distribution Detection on Various Trained Neural Networks](https://ieeexplore.ieee.org/abstract/document/8906748)
-(SEAA conference)[https://github.com/jenshenriksson/pytorch-cifar/blob/master/SEAA_training.sh]
-(IST Journal)[https://github.com/jenshenriksson/pytorch-cifar/blob/master/IST_training.sh]
+
+[SEAA training](https://github.com/jenshenriksson/pytorch-cifar/blob/master/SEAA_training.sh)
+
+[IST-Journal](https://github.com/jenshenriksson/pytorch-cifar/blob/master/IST_training.sh)
 
